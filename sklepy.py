@@ -1,4 +1,5 @@
 #%% Preprocessing
+print("x")
 import geopandas as gpd
 import os
 os.chdir("C:/Users/wojci/Desktop/IV_rok/data/data")
